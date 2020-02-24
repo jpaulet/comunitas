@@ -21,3 +21,15 @@ We want to create a replicable, from global to local DAO framework in order to b
 * J.P. Aulet (@jpaulet): Blockchain developer & Smart Cities expert. Product Development & Business. 
 * E.M. Martínez (@mmmnmz): Urbanist specialized in sustainability. Product Manager and Design. Business.
 * C.P. Gromaches (@cgromaches): Architect specialized in sustainability. Product Manager and Design. Business.
+
+## Deliverables
+
+* [Week 1]: https://github.com/jpaulet/comunitas/tree/master/Week1
+* Week 2: TBD
+* Week 3: TBD
+* Week 4: TBD
+* Week 5 & 6: TBD
+
+## After the Hackathon
+
+We plan to keep the development of the comunitas project starting with demo projects in our zone but also targetting other people to join & start building new DAOs arround the world, where people could join, fund, archieve a common goal and work together with a reliable binding contract deployed on the Blockchain & grow the project to become a new standard of project development, either for individuals, NGO's or communities. 

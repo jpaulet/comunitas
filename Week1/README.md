@@ -7,11 +7,11 @@
 
  - [x] **Define specific problem you're addressing:**
 
-commūnitās is targeting the lack of individually tackle economic, social and climate change issues. The platform brings the community together in order to reach common goals by creating DAO’s to archive it.  
+**commūnitās** is targeting the lack of individually tackle economic, social and climate change issues. The platform brings the community together in order to reach common goals by creating DAO’s to archive it.  
 
 Though blockchain DAOs, communities could pool for a common interest. Blockchain allows users to register goals, develop their collective policies, contract specifications, pool together -use of compound interest considered- and eventually, reach that goal.  
 
-We want to create a replicable, from global to local DAO framework in order to be able and facilitate the creation of multiple organizations where people come together to sustainability solve and improve situations in a wide range of areas, following the UN SDG: 
+We want to create a **replicable, from global to local DAO framework** in order to be able and facilitate the creation of multiple organizations where people come together to solve and improve sustainability problems in a wide range of areas, following the UN SDG. Some of the use cases & examples of commūnitās DAO's could be: 
 
 * Ex1: MEET AND WELCOME PEOPLE (SDG11). Neighbours invest in purchasing a housing block on space permit. Since neighbours don’t own the property, they just pay for the use of the property during a determined period of time. Eventually, when they leave the property, they get their money back. All the terms & conditions are inside the created DAO.
 
@@ -26,6 +26,8 @@ We want to create a replicable, from global to local DAO framework in order to b
 * Ex6: JOIN GROUPS AND HAVE FUN (SDG17). LOVE ALL LIFE AND GET OUTDOORS (SDG15). Neighbours could promote a green space -like an orchard or urban vegetable paths in order to boost community, promote self-sufficient consumption and reduce CO2 while improving their leisure time. 
 
 * Ex7: WASTE (SDG2). Work towards completing material cycles by creating recycling areas separated to collectively separate materials, organic waste, etc to use/sell it afterwards.  
+
+With our approach, we address the problem of lack of tools to build secure & trustworthy organizations that could, in a quick & easy way, solve local problems by gather together people with similar interests in a reliable way.
 
 ---
 
