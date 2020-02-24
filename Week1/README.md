@@ -32,7 +32,7 @@ We want to create a replicable, from global to local DAO framework in order to b
  - [x] **Why is blockchain needed to solve this problem?**
 
 <p align="center">
-  <img src="../img/use_blochain.png" alt="Why Blockchain">
+  <img src="../img/use_blockchain.png" alt="Why Blockchain">
 </p>
 
 The simple existence of the DAO* (Decentralized Autonomous Organizations) in our project made Blockchain essencial as, by definition, DAO's are built on Blockchain. But we need Blochain for this other reasons too:
