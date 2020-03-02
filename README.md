@@ -6,7 +6,7 @@ Cities consume 80 percent of energy production worldwide and account for a rough
 
 **Our Solution**:
 <p align="center">
-  <img src="./img/logo_big.png" alt="Comunitas Logo">
+  <img src="./img/logo_big.png" alt="Communitas Logo">
 </p>
 
 ## Comunitas 
@@ -24,8 +24,8 @@ We want to create a replicable, from global to local DAO framework in order to b
 
 ## Deliverables
 
-* [Week 1:](https://github.com/jpaulet/comunitas/tree/master/Week1)
-* Week 2: TBD
+* [Week 1](https://github.com/jpaulet/comunitas/tree/master/Week1)
+* [Week 2](https://github.com/jpaulet/comunitas/tree/master/Week2)
 * Week 3: TBD
 * Week 4: TBD
 * Week 5 & 6: TBD
