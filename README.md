@@ -27,7 +27,7 @@ We want to create a replicable, from global to local DAO framework in order to b
 * [Delivery 1](https://github.com/jpaulet/comunitas/tree/master/Week1)
 * [Delivery 2](https://github.com/jpaulet/comunitas/tree/master/Week2)
 * [Delivery 3](https://github.com/jpaulet/comunitas/tree/master/Week3%20%26%204)
-* [Delivery 4]()
+* [Delivery 4](https://github.com/jpaulet/comunitas/tree/master/Week5)
 * Delivery 5: TBD
 
 ## After the Hackathon
