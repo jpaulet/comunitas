@@ -1,4 +1,8 @@
 # communitas
+<p align="center">
+  <img src="../img/logo_big.png" alt="Communitas Logo">
+</p>
+
 SDG #11 Sustainable Cities and Communities Project
 
 **Problem**:
@@ -6,8 +10,9 @@ Cities consume 80 percent of energy production worldwide and account for a rough
 
 **Our Solution**:
 <p align="center">
-  <img src="./img/logo_big.png" alt="Communitas Logo">
+  <img src="../img/screenshot.png" alt="Communitas Screenshot">
 </p>
+
 
 ## Comunitas 
 
@@ -21,6 +26,10 @@ We want to create a replicable, from global to local DAO framework in order to b
 * J.P. Aulet (@jpaulet): Blockchain developer & Smart Cities expert. Product Development & Business. 
 * E.M. Martínez (@mmmnmz): Urbanist specialized in sustainability. Product Manager and Design. Business.
 * C.P. Gromaches (@cgromaches): Architect specialized in sustainability. Product Manager and Design. Business.
+
+## DEMO URL
+You can check our working demo on: http://communitas.netlify.com
+[Communitas Platform Demo](http://communitas.netlify.com)
 
 ## Project setup
 ```
