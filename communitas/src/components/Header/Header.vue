@@ -76,8 +76,10 @@
             <a class="nav-link mr-5" href="#/app/projects" style="outline: currentcolor none medium; display: inline-block;color:#000;">PROJECTS
             </a>
             <a class="nav-link mr-5" href="#/app/newDAO" style="outline: currentcolor none medium; display: inline-block;color:#000;">Be a COMMUNER</a>
-            <a class="nav-link mr-5" href="" style="outline: currentcolor none medium; display: inline-block;color:#000;">SUPPORT</a>
-            <a class="nav-link" href="#/app/team" style="outline: currentcolor none medium; display: inline-block;color:#000;">TEAM</a>
+            <!--<a class="nav-link mr-5" href="" style="outline: currentcolor none medium; display: inline-block;color:#000;">SUPPORT</a>-->
+            <a class="nav-link mr-5" href="#/app/team" style="outline: currentcolor none medium; display: inline-block;color:#000;">TEAM</a>
+
+            <a class="nav-link btn btn-light px-4" href="#/dao/dashboard" style="outline: currentcolor none medium; display: inline-block;color:#000;border:1px solid #eee;">Demo</a>
           </div>
 
           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true" style='margin:0px 40px;'>
@@ -123,7 +125,6 @@ export default {
     authenticated: function() {
       var authenticated = window.localStorage.getItem('authenticated') === 'false';
       var path = JSON.stringify(this.$router.history.current.path).indexOf('/dao') === -1;
-      //console.log('Authenticated' + authenticated + ' - Path: ' + path + 'Result:' + (authenticated || path));
       return !(authenticated || path);
     }
   },
@@ -158,7 +159,11 @@ export default {
     onComplete(data){
         this.userClickedConnectAccount = false;
         this.metamaskInfo = data;
-        this.metamaskInfo.web3.eth.getAccounts(accounts => console.log(accounts[0]));
+        this.metamaskInfo.web3.eth.getAccounts((error, accounts) => {
+          if(accounts[0] && typeof accounts[0] !== 'undefined'){
+            this.wallet = accounts[0];        
+          }
+        });
     },
     connectAccount(){
       if(this.metamaskInfo===null && window.web3 && window.web3.currentProvider.isMetaMask){

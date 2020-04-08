@@ -7,17 +7,15 @@
             <div class="col-lg-4">
                 <div class="ibox">
                     <div class="ibox-title">
-                        <h5>IT-01 - Design Team</h5>
+                        <h5>IT-01 - Architect Team</h5>
                     </div>
                     <div class="ibox-content">
                         <div class="team-members">
                             <a href="#"><img alt="member" class="rounded-circle" src="img/a1.jpg"></a>
                             <a href="#"><img alt="member" class="rounded-circle" src="img/a2.jpg"></a>
-                            <a href="#"><img alt="member" class="rounded-circle" src="img/a3.jpg"></a>
-                            <a href="#"><img alt="member" class="rounded-circle" src="img/a5.jpg"></a>
-                            <a href="#"><img alt="member" class="rounded-circle" src="img/a6.jpg"></a>
+                            <a href="#"><img alt="member" class="rounded-circle" src="img/a3.jpg"></a>                            
                         </div>
-                        <h4>Info about Design Team</h4>
+                        <h4>Info about Architect Team</h4>
                         <p>
                             It is a long established fact that a reader will be distracted by the readable content
                             of a page when looking at its layout. The point of using Lorem Ipsum is that it has.
@@ -48,17 +46,16 @@
                 </div>
                 <div class="ibox">
                     <div class="ibox-title">
-                        <h5>IT-04 - Marketing Team</h5>
+                        <h5>IT-04 - Law Team</h5>
                     </div>
                     <div class="ibox-content">
                         <div class="team-members">
-                            <a href="#"><img alt="member" class="rounded-circle" src="img/a4.jpg"></a>
                             <a href="#"><img alt="member" class="rounded-circle" src="img/a5.jpg"></a>
                             <a href="#"><img alt="member" class="rounded-circle" src="img/a6.jpg"></a>
                             <a href="#"><img alt="member" class="rounded-circle" src="img/a8.jpg"></a>
                             <a href="#"><img alt="member" class="rounded-circle" src="img/a7.jpg"></a>
                         </div>
-                        <h4>Info about Design Team</h4>
+                        <h4>Info about Law Team</h4>
                         <p>
                             It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker.
                         </p>
@@ -250,7 +247,7 @@
                 <div class="ibox">
                     <div class="ibox-title">
 
-                        <h5>IT-02 - Graphic Team</h5>
+                        <h5>IT-03 - Graphic Team</h5>
                     </div>
                     <div class="ibox-content">
                         <div class="team-members">

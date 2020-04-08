@@ -81,7 +81,7 @@
                 <h6>This project will not be the same without the help of numerous people that had advised and guided us from the beginning:</h6>
             </div>
 
-            <div class='row'>
+            <div class='row' style='width:100%;margin:0px auto;'>
                 <div class="col-12 col-lg-6">
                     <div class="contact-box">
                         <div class='row'>

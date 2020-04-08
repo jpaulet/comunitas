@@ -271,4 +271,9 @@ export default {
 };
 </script>
 
+<style scoped>
+  .widgetControls {
+    display:none !important;
+  }
+</style>
 <style src="./Dashboard.scss" lang="scss" />

@@ -51,9 +51,9 @@
                                         <i class="fa fa-file"></i>
                                     </div>
                                     <div class="file-name">
-                                        Document_2014.doc
+                                        Document_2020.doc
                                         <br/>
-                                        <small>Added: Jan 11, 2014</small>
+                                        <small>Added: Jan 11, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -65,12 +65,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p1.jpg">
+                                        <img alt="image" class="img-fluid" src="img/cohousing1.jpg">
                                     </div>
                                     <div class="file-name">
-                                        Italy street.jpg
+                                        Cohousing street.jpg
                                         <br/>
-                                        <small>Added: Jan 6, 2014</small>
+                                        <small>Added: Jan 6, 2020</small>
                                     </div>
                                 </a>
 
@@ -82,12 +82,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p2.jpg">
+                                        <img alt="image" class="img-fluid" src="img/Cohousing2.jpg">
                                     </div>
                                     <div class="file-name">
-                                        My feel.png
+                                        House.jpg
                                         <br/>
-                                        <small>Added: Jan 7, 2014</small>
+                                        <small>Added: Jan 7, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -101,9 +101,9 @@
                                         <i class="fa fa-music"></i>
                                     </div>
                                     <div class="file-name">
-                                        Michal Jackson.mp3
+                                        Law.mp3
                                         <br/>
-                                        <small>Added: Jan 22, 2014</small>
+                                        <small>Added: Jan 22, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -114,12 +114,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p3.jpg">
+                                        <img alt="image" class="img-fluid" src="img/cohousing3.jpg">
                                     </div>
                                     <div class="file-name">
-                                        Document_2014.doc
+                                        Document_2020.doc
                                         <br/>
-                                        <small>Added: Fab 11, 2014</small>
+                                        <small>Added: Fab 11, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -133,9 +133,9 @@
                                         <i class="img-fluid fa fa-film"></i>
                                     </div>
                                     <div class="file-name">
-                                        Monica's birthday.mpg4
+                                        Land Film.mpg4
                                         <br/>
-                                        <small>Added: Fab 18, 2014</small>
+                                        <small>Added: Fab 18, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -149,9 +149,9 @@
                                         <i class="fa fa-bar-chart-o"></i>
                                     </div>
                                     <div class="file-name">
-                                        Annual report 2014.xls
+                                        Annual report 2020.xls
                                         <br/>
-                                        <small>Added: Fab 22, 2014</small>
+                                        <small>Added: Fab 22, 2020</small>
                                     </div>
                                 </div>
                             </a>
@@ -165,9 +165,9 @@
                                         <i class="fa fa-file"></i>
                                     </div>
                                     <div class="file-name">
-                                        Document_2014.doc
+                                        Document_2020.doc
                                         <br/>
-                                        <small>Added: Jan 11, 2014</small>
+                                        <small>Added: Jan 11, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -179,12 +179,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p1.jpg">
+                                        <img alt="image" class="img-fluid" src="img/cohousing4.jpg">
                                     </div>
                                     <div class="file-name">
-                                        Italy street.jpg
+                                        street.jpg
                                         <br/>
-                                        <small>Added: Jan 6, 2014</small>
+                                        <small>Added: Jan 6, 2020</small>
                                     </div>
                                 </a>
 
@@ -196,12 +196,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p2.jpg">
+                                        <img alt="image" class="img-fluid" src="img/cohousing2.jpeg">
                                     </div>
                                     <div class="file-name">
-                                        My feel.png
+                                        view.png
                                         <br/>
-                                        <small>Added: Jan 7, 2014</small>
+                                        <small>Added: Jan 7, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -215,9 +215,9 @@
                                         <i class="fa fa-music"></i>
                                     </div>
                                     <div class="file-name">
-                                        Michal Jackson.mp3
+                                        d.mp3
                                         <br/>
-                                        <small>Added: Jan 22, 2014</small>
+                                        <small>Added: Jan 22, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -228,28 +228,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p3.jpg">
+                                        <img alt="image" class="img-fluid" src="img/project4.jpg">
                                     </div>
                                     <div class="file-name">
-                                        Document_2014.doc
+                                        Document_2020.doc
                                         <br/>
-                                        <small>Added: Fab 11, 2014</small>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="file-box">
-                            <div class="file">
-                                <a href="#">
-                                    <span class="corner"></span>
-
-                                    <div class="icon">
-                                        <i class="img-fluid fa fa-film"></i>
-                                    </div>
-                                    <div class="file-name">
-                                        Monica's birthday.mpg4
-                                        <br/>
-                                        <small>Added: Fab 18, 2014</small>
+                                        <small>Added: Fab 11, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -263,9 +247,9 @@
                                         <i class="fa fa-bar-chart-o"></i>
                                     </div>
                                     <div class="file-name">
-                                        Annual report 2014.xls
+                                        Annual report march 2020.xls
                                         <br/>
-                                        <small>Added: Fab 22, 2014</small>
+                                        <small>Added: Fab 22, 2020</small>
                                     </div>
                                 </div>
                             </a>
@@ -279,9 +263,9 @@
                                         <i class="fa fa-file"></i>
                                     </div>
                                     <div class="file-name">
-                                        Document_2014.doc
+                                        Document_2020.doc
                                         <br/>
-                                        <small>Added: Jan 11, 2014</small>
+                                        <small>Added: Jan 11, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -293,12 +277,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p1.jpg">
+                                        <img alt="image" class="img-fluid" src="img/project8.png">
                                     </div>
                                     <div class="file-name">
                                         Italy street.jpg
                                         <br/>
-                                        <small>Added: Jan 6, 2014</small>
+                                        <small>Added: Jan 6, 2020</small>
                                     </div>
                                 </a>
 
@@ -310,12 +294,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p2.jpg">
+                                        <img alt="image" class="img-fluid" src="img/cohousing5.jpg">
                                     </div>
                                     <div class="file-name">
                                         My feel.png
                                         <br/>
-                                        <small>Added: Jan 7, 2014</small>
+                                        <small>Added: Jan 7, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -331,7 +315,7 @@
                                     <div class="file-name">
                                         Michal Jackson.mp3
                                         <br/>
-                                        <small>Added: Jan 22, 2014</small>
+                                        <small>Added: Jan 22, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -342,12 +326,12 @@
                                     <span class="corner"></span>
 
                                     <div class="image">
-                                        <img alt="image" class="img-fluid" src="img/p3.jpg">
+                                        <img alt="image" class="img-fluid" src="img/project10.jpg">
                                     </div>
                                     <div class="file-name">
-                                        Document_2014.doc
+                                        Document_2020.doc
                                         <br/>
-                                        <small>Added: Fab 11, 2014</small>
+                                        <small>Added: Fab 11, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -363,7 +347,7 @@
                                     <div class="file-name">
                                         Monica's birthday.mpg4
                                         <br/>
-                                        <small>Added: Fab 18, 2014</small>
+                                        <small>Added: Fab 18, 2020</small>
                                     </div>
                                 </a>
                             </div>
@@ -377,9 +361,9 @@
                                         <i class="fa fa-bar-chart-o"></i>
                                     </div>
                                     <div class="file-name">
-                                        Annual report 2014.xls
+                                        Annual report 2020.xls
                                         <br/>
-                                        <small>Added: Fab 22, 2014</small>
+                                        <small>Added: Fab 22, 2020</small>
                                     </div>
                                 </div>
                             </a>
@@ -402,7 +386,7 @@ export default {
 /* FILE MANAGER */
 .file-box {
   float: left;
-  width: 220px;
+  width: 25%;
 }
 .file-manager h5 {
   text-transform: uppercase;

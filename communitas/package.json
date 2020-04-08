@@ -1,6 +1,8 @@
 {
-  "name": "Communitas",
-  "version": "0.3",
+  "name": "communitas",
+  "description": "DAO platform for Cohousing creation and organization",
+  "version": "0.0.3",
+  "author": "J.P.Aulet",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --port 3000",
@@ -45,7 +47,7 @@
     "@babel/plugin-proposal-optional-chaining": "^7.7.5",
     "@vue/cli-plugin-babel": "^3.12.0",
     "@vue/cli-plugin-eslint": "^3.12.0",
-    "@vue/cli-service": "^3.12.0",
+    "@vue/cli-service": "^4.3.0",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
@@ -71,5 +73,13 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": "babel.config.js",
+  "keywords": [
+    "dao",
+    "blockchain",
+    "cohousing"
+  ],
+  "author": "J.P. Aulet",
+  "license": "ISC"
 }
