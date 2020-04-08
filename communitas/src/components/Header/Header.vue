@@ -26,11 +26,19 @@
         <i class="fa fa-circle text-primary mr-n-sm" />
         <i class="fa fa-circle text-danger" />
         &nbsp;
-        sing
+        communitas
         &nbsp;
         <i class="fa fa-circle text-danger mr-n-sm" />
         <i class="fa fa-circle text-primary" />
       </a>
+
+      <b-nav class="ml-auto" v-if="authenticated">
+        <b-nav-item>
+          <a href="http://localhost:3000/#/app/newDAO" @click='redirectNewDAO' class="nav-link btn btn-primary px-4 newDAO" style="outline: currentcolor none medium; display: inline-block;color:#fff;border:1px solid #eee;height:38px;border-radius:8px;border:0px;z-index:99999999;">
+            <i class="fa fa-cubes mr-2"></i> Create New Organization
+          </a>
+        </b-nav-item>
+      </b-nav>
     
       <b-nav class="ml-auto" v-if="authenticated">
         <b-nav-item-dropdown
@@ -171,6 +179,9 @@ export default {
       }else{
         this.$toasted.show("MetaMask account not detected :(. You should install MetaMask");
       }
+    },
+    redirectNewDAO(){
+      this.$router.push('/app/newDAO');
     }
   },
   mounted() {
@@ -188,5 +199,14 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.app-header.navbar .nav .nav-item .nav-link > a:hover{
+  background: rgb(0, 87, 146) !important;
+}
+  .newDao:hover{
+    background: rgb(0, 87, 146) !important;
+  }
+</style>
 
 <style src="./Header.scss" lang="scss"></style>
