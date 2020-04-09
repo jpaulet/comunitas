@@ -29,13 +29,13 @@ It's based on DAO Templates for easy replication for affordable housing organiza
 Commūnitās solves the problems of to settlement, costs, governance, registers, transparency, security, trustability, need for intermediaries and inssues scalability in collective housing processes. Our aim is to simplify the process, save users time and money, create a network and replicate local housing solutions into the global context to contribute to solve the affordable housing crises and help achieve some of the UN SDGs.
 
 ## DEMO URL
-You can check our working demo on: http://commūnitās.netlify.com
-[Commūnitās Platform Demo](http://commūnitās.netlify.com)
+You can check our working demo on: http://communitas.netlify.com
+[Commūnitās Platform Demo](http://communitas.netlify.com)
 
 ## Deliverables
 
 * [Final Delivery Folder](https://github.com/jpaulet/comunitas/tree/master/FINAL)
-* [Demo](http://commūnitās.netlify.com)
+* [Demo](http://communitas.netlify.com)
 * [Video](https://youtu.be/KBZwhigLHTg)
 * [Pitch Deck](https://github.com/jpaulet/comunitas/blob/master/FINAL/Comm%C5%ABnit%C4%81s%20-%20PITCH%20DECK%20Final%20.pdf)
 * [Full Documentation](https://github.com/jpaulet/comunitas/blob/master/FINAL/Comm%C5%ABnit%C4%81s%20-%20Full%20Documentation.pdf)
@@ -44,7 +44,7 @@ You can check our working demo on: http://commūnitās.netlify.com
 * [Delivery 2](https://github.com/jpaulet/comunitas/tree/master/Week2)
 * [Delivery 3](https://github.com/jpaulet/comunitas/tree/master/Week3%20%26%204)
 * [Delivery 4](https://github.com/jpaulet/comunitas/tree/master/Week5)
-* [Source Code](https://github.com/jpaulet/comunitas/tree/master/commūnitās)
+* [Source Code](https://github.com/jpaulet/comunitas/tree/master/communitas)
 
 ## After the Hackathon
 
