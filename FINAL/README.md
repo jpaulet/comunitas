@@ -12,6 +12,7 @@ SDG #11 Sustainable Cities and Communities Project
 * Pitch Deck
 * Video
 * Demo Platform
+* BSIC Hackathon Process - Our History
 
 **Demo Platform**:
 
@@ -21,6 +22,9 @@ Also, all the code is submited in the Github repo, here: [Communitas Source Code
 <p align="center">
   <img src="../img/screenshot.png" alt="Communitas Screenshot">
 </p>
+
+**Video**
+Yo can visualizate the video by downloading it or in the Youtube platform: [Youtube Video](https://youtu.be/KBZwhigLHTg)
 
 ## Communitas 
 commūnitās is targeting the lack of individually tackle economic, social and climate change issues. The platform brings the community together in order to reach common goals by creating DAO’s to archive it.  
