@@ -1,7 +1,7 @@
 # commūnitās
 SDG #11 Sustainable Cities and Communities Project
 <p align="center">
-  <img src="../img/logo_big.png" alt="Commūnitās Logo">
+  <img src="https://github.com/jpaulet/comunitas/blob/master/img/logo_big.png" alt="Commūnitās Logo">
 </p>
 
 ## Commūnitās 
@@ -19,7 +19,7 @@ It's based on DAO Templates for easy replication for affordable housing organiza
 Commūnitās solves the problems of to settlement, costs, governance, registers, transparency, security, trustability, need for intermediaries and inssues scalability in collective housing processes. Our aim is to simplify the process, save users time and money, create a network and replicate local housing solutions into the global context to contribute to solve the affordable housing crises and help achieve some of the UN SDGs.
 
 <p align="center">
-  <img src="../img/screenshot.png" alt="Commūnitās Screenshot">
+  <img src="https://github.com/jpaulet/comunitas/blob/master/img/screenshot.png" alt="Commūnitās Screenshot">
 </p>
 
 ## DEMO URL
