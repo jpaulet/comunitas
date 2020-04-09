@@ -168,16 +168,16 @@
                   <div class="card bg-dark text-white m-3">
                     <img class="card-img" src="img/1.jpg" alt="Card image">
                     <div class="card-img-overlay">
-                      <h3 class="be-header card-title" style='text-align:center;font-size:2em;margin-top:30%;'>We adopted a house</h3>                  
+                      <h3 class="be-header card-title" style='text-align:center;font-size:2em;margin-top:30%;'>We adopted a house</h3>
                       <!-- <p>Co-housing organization</p> -->
                     </div>
                   </div>
                 </div>
                 <div class="col col-8 ml-2">
                   <div class="card bg-dark text-white m-3">
-                    <img class="card-img" src="img/2.jpg" alt="Card image">
+                    <img class="card-img" src="img/project10.jpg" alt="Card image">
                     <div class="card-img-overlay">
-                      <h3 class="be-header card-title" style='text-align:center;font-size:2em;margin-top:30%;'>NFTrees</h3>                  
+                      <h3 class="be-header card-title" style='text-align:center;font-size:2em;margin-top:30%;'>CoHousing in Berlin</h3>
                       <!-- <p>Nature organization</p> -->
                     </div>
                   </div>  
@@ -186,7 +186,7 @@
                   <div class="card bg-dark text-white m-3">
                     <img class="card-img" src="img/3.jpg" alt="Card image">
                     <div class="card-img-overlay">
-                      <h3 class="be-header card-title" style='text-align:center;font-size:2em;margin-top:30%;'>Less Homeless</h3>                  
+                      <h3 class="be-header card-title" style='text-align:center;font-size:2em;margin-top:30%;'>Less Homeless</h3>
                     </div>
                   </div>
                 </div>
