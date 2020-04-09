@@ -1,7 +1,7 @@
 # communitas
 SDG #11 Sustainable Cities and Communities Project
 <p align="center">
-  <img src="../img/logo_big.png" alt="Communitas Logo">
+  <img src="../img/logo_big.png" alt="Commūnitās Logo">
 </p>
 
 **Final Delivery**:
@@ -16,17 +16,17 @@ SDG #11 Sustainable Cities and Communities Project
 
 **Demo Platform**:
 
-You can check the live version of our alpha platform here: [Communitas Demo](http://communitas.netlify.com)
-Also, all the code is submited in the Github repo, here: [Communitas Source Code](https://github.com/jpaulet/comunitas/tree/master/communitas)
+You can check the live version of our alpha platform here: [Commūnitās Demo](http://communitas.netlify.com)
+Also, all the code is submited in the Github repo, here: [Commūnitās Source Code](https://github.com/jpaulet/comunitas/tree/master/communitas)
 
 <p align="center">
-  <img src="../img/screenshot.png" alt="Communitas Screenshot">
+  <img src="../img/screenshot.png" alt="Commūnitās Screenshot">
 </p>
 
 **Video**
 Yo can visualizate the video by downloading it or in the Youtube platform: [Youtube Video](https://youtu.be/KBZwhigLHTg)
 
-## Communitas 
+## Commūnitās 
 commūnitās is targeting the lack of individually tackle economic, social and climate change issues. The platform brings the community together in order to reach common goals by creating DAO’s to archive it.  
 
 Though blockchain DAOs, communities could pool for a common interest. Blockchain allows users to register goals, develop their collective policies, contract specifications, pool together -use of compound interest considered- and eventually, reach that goal.  
@@ -40,4 +40,4 @@ We want to create a replicable, from global to local DAO framework in order to b
 
 ## After the Hackathon
 
-We plan to keep the development of the Communitas project starting with demo projects in our zone but also targetting other people to join & start building new DAOs arround the world, where people could join, fund, archieve a common goal and work together with a reliable binding contract deployed on the Blockchain & grow the project to become a new standard of project development, either for individuals, NGO's or communities. 
+We plan to keep the development of the Commūnitās project starting with demo projects in our zone but also targetting other people to join & start building new DAOs arround the world, where people could join, fund, archieve a common goal and work together with a reliable binding contract deployed on the Blockchain & grow the project to become a new standard of project development, either for individuals, NGO's or communities. 

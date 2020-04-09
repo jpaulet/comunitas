@@ -1,7 +1,7 @@
-# communitas
+# commūnitās
 SDG #11 Sustainable Cities and Communities Project
 <p align="center">
-  <img src="../img/logo_big.png" alt="Communitas Logo">
+  <img src="../img/logo_big.png" alt="Commūnitās Logo">
 </p>
 
 **Problem**:
@@ -11,11 +11,11 @@ Cities consume 80 percent of energy production worldwide and account for a rough
 A blochchain platform to create & manage cohousing projects trough the creation of decentralized autonomous organizations (DAOs) from pre-generated templates.
 
 <p align="center">
-  <img src="../img/screenshot.png" alt="Communitas Screenshot">
+  <img src="../img/screenshot.png" alt="Commūnitās Screenshot">
 </p>
 
-## Comunitas 
-Communitas 
+## Commūnitās 
+Commūnitās 
 A blockchain organization creator and manager for affordable housing 
 
 All-in-one easy organization manager that allows you to process, allocate information, planification, documents, assign tasks, track finances and define project roadmaps. 
@@ -26,16 +26,16 @@ It Secures your community finances and lets you be transparent on expenditures.
 
 It's based on DAO Templates for easy replication for affordable housing organization structures.   
 
-Communitas solves the problems of to settlement, costs, governance, registers, transparency, security, trustability, need for intermediaries and inssues scalability in collective housing processes. Our aim is to simplify the process, save users time and money, create a network and replicate local housing solutions into the global context to contribute to solve the affordable housing crises and help achieve some of the UN SDGs.
+Commūnitās solves the problems of to settlement, costs, governance, registers, transparency, security, trustability, need for intermediaries and inssues scalability in collective housing processes. Our aim is to simplify the process, save users time and money, create a network and replicate local housing solutions into the global context to contribute to solve the affordable housing crises and help achieve some of the UN SDGs.
 
 ## DEMO URL
-You can check our working demo on: http://communitas.netlify.com
-[Communitas Platform Demo](http://communitas.netlify.com)
+You can check our working demo on: http://commūnitās.netlify.com
+[Commūnitās Platform Demo](http://commūnitās.netlify.com)
 
 ## Deliverables
 
 * [Final Delivery Folder](https://github.com/jpaulet/comunitas/tree/master/FINAL)
-* [Demo](http://communitas.netlify.com)
+* [Demo](http://commūnitās.netlify.com)
 * [Video](https://youtu.be/KBZwhigLHTg)
 * [Pitch Deck](https://github.com/jpaulet/comunitas/blob/master/FINAL/Comm%C5%ABnit%C4%81s%20-%20PITCH%20DECK%20Final%20.pdf)
 * [Full Documentation](https://github.com/jpaulet/comunitas/blob/master/FINAL/Comm%C5%ABnit%C4%81s%20-%20Full%20Documentation.pdf)
@@ -44,7 +44,7 @@ You can check our working demo on: http://communitas.netlify.com
 * [Delivery 2](https://github.com/jpaulet/comunitas/tree/master/Week2)
 * [Delivery 3](https://github.com/jpaulet/comunitas/tree/master/Week3%20%26%204)
 * [Delivery 4](https://github.com/jpaulet/comunitas/tree/master/Week5)
-* [Source Code](https://github.com/jpaulet/comunitas/tree/master/communitas)
+* [Source Code](https://github.com/jpaulet/comunitas/tree/master/commūnitās)
 
 ## After the Hackathon
 
