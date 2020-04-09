@@ -4,16 +4,6 @@ SDG #11 Sustainable Cities and Communities Project
   <img src="../img/logo_big.png" alt="Commūnitās Logo">
 </p>
 
-**Problem**:
-Cities consume 80 percent of energy production worldwide and account for a roughly equal share of global greenhouse gas emissions. Many cities struggle with environmental degradation, traffic congestion, and inadequate urban infrastructure. City citizens all over the world deserve better basic services, including access to clean water, sanitation, and waste management. How do we design and build cities of the future that sustain the well-being of people, economies, and our planet? How can we breakdown the structural racism built into our economies and cities as we invest in sustainable infrastructure?
-
-**Our Solution**:
-A blochchain platform to create & manage cohousing projects trough the creation of decentralized autonomous organizations (DAOs) from pre-generated templates.
-
-<p align="center">
-  <img src="../img/screenshot.png" alt="Commūnitās Screenshot">
-</p>
-
 ## Commūnitās 
 Commūnitās 
 A blockchain organization creator and manager for affordable housing 
@@ -27,6 +17,10 @@ It Secures your community finances and lets you be transparent on expenditures.
 It's based on DAO Templates for easy replication for affordable housing organization structures.   
 
 Commūnitās solves the problems of to settlement, costs, governance, registers, transparency, security, trustability, need for intermediaries and inssues scalability in collective housing processes. Our aim is to simplify the process, save users time and money, create a network and replicate local housing solutions into the global context to contribute to solve the affordable housing crises and help achieve some of the UN SDGs.
+
+<p align="center">
+  <img src="../img/screenshot.png" alt="Commūnitās Screenshot">
+</p>
 
 ## DEMO URL
 You can check our working demo on: http://communitas.netlify.com
