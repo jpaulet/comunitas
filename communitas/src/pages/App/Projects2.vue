@@ -160,7 +160,7 @@
                             <li data-v-6485f5a5=""><a data-v-6485f5a5="" href="#">Details</a></li>
                         </ul>
                     </div>
-                    <button class='btn btn-light' style="width:96%;margin:auto auto 10px;"> Join now! </button>
+                    <button class='btn btn-light' style="width:96%;margin:auto auto 10px;"> Join now!</button>
                 </li>
                 <li data-v-6485f5a5="" class="picture card">
                     <div data-v-6485f5a5="" class="img-wrapper"><img data-v-6485f5a5="" src="img/covid.jpg" alt="..." class="figure-img width-200"></div>
