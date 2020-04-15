@@ -81,8 +81,7 @@
           </button>
 
           <div class='navbar-nav m-auto'>
-            <a v-if="isLanding2" class="nav-link mr-5" href="#/app/projects2" style="outline: currentcolor none medium; display: inline-block;color:#000;">PROJECTS</a>
-            <a v-else class="nav-link mr-5" href="#/app/projects" style="outline: currentcolor none medium; display: inline-block;color:#000;">PROJECTS</a>
+            <a class="nav-link mr-5" href="#/app/projects" style="outline: currentcolor none medium; display: inline-block;color:#000;">PROJECTS</a>
             <a class="nav-link mr-5" href="#/app/newDAO" style="outline: currentcolor none medium; display: inline-block;color:#000;">Be a COMMUNER</a>
             <a class="nav-link mr-5" href="#/app/team" style="outline: currentcolor none medium; display: inline-block;color:#000;">TEAM</a>
 
@@ -133,10 +132,7 @@ export default {
       var authenticated = window.localStorage.getItem('authenticated') === 'false';
       var path = JSON.stringify(this.$router.history.current.path).indexOf('/dao') === -1;
       return !(authenticated || path);
-    },
-    isLanding2: function() {
-      return (this.$router.history.current.path === '/app/landing2');
-    }
+    },    
   },
   methods: {
     ...mapActions('layout', ['toggleSidebar', 'switchSidebar', 'changeSidebarActive']),

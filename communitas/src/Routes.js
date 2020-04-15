@@ -28,9 +28,9 @@ import NotificationsPage from '@/pages/Notifications/Notifications';
 //New Routings
 
 //APP 
-import Landing from '@/pages/App/Landing';
+//import Landing from '@/pages/App/Landing';
 import Landing2 from '@/pages/App/Landing2';
-import Projects from '@/pages/App/Projects';
+//import Projects from '@/pages/App/Projects';
 import Projects2 from '@/pages/App/Projects2';
 import NewDAO from '@/pages/App/NewDAO';
 import Team from '@/pages/App/Team';
@@ -69,23 +69,27 @@ export default new Router({
         {
           path: 'projects',
           name: 'Projects',
-          component: Projects,
+          component: Projects2,
         },
+        /*
         {
           path: 'projects2',
           name: 'Projects2',
           component: Projects2,
         },
+        */
         {
           path: 'landing',
           name: 'landing',
-          component: Landing,
+          component: Landing2,
         },
+        /*
         {
           path: 'landing2',
           name: 'landing2',
           component: Landing2,
         },
+        */
         {
           path: 'newDAO',
           name: 'newDAO',
