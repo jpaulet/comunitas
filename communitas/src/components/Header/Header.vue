@@ -81,7 +81,7 @@
           </button>
 
           <div class='navbar-nav m-auto'>
-            <a class="nav-link mr-5" href="#/app/projects" style="outline: currentcolor none medium; display: inline-block;color:#000;">PROJECTS</a>
+            <a class="nav-link mr-5" href="#/app/projectso" style="outline: currentcolor none medium; display: inline-block;color:#000;">PROJECTS</a>
             <a class="nav-link mr-5" href="#/app/newDAO" style="outline: currentcolor none medium; display: inline-block;color:#000;">Be a COMMUNER</a>
             <a class="nav-link mr-5" href="#/app/team" style="outline: currentcolor none medium; display: inline-block;color:#000;">TEAM</a>
 
