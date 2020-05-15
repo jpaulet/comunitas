@@ -9,7 +9,7 @@
                       <div class="fr-wrapper" dir="auto">
                           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true">
                               <h1>empowering the future of <strong>cohousing</strong></h1>
-                              <p class="lead">Collaborate and create cohousing organizations <br />to reach the UN Sustainable Development Goals 2030</p>
+                              <p class="lead">Create and manage cohousing communities for<br />affordable housing and contribute with the UN SDGs</p>
                               <p class="lead mb-5">Put your community on the Blockchain and keep your data secure & registred</p>
                               <p class="mt-5 mt-sm-4">
                                   <a class="btn btn-primary" href="">Sign In</a> <span class='ml-2'>- It's free!</span>
