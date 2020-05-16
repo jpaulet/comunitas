@@ -8,9 +8,9 @@
                   <div class="col-12 col-md-10 text-center fr-box" role="application" style="z-index: 10000;">
                       <div class="fr-wrapper" dir="auto">
                           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true">
-                              <h1>empowering the future of <strong>cohousing</strong></h1>
-                              <p class="lead">Create and manage cohousing communities for<br />affordable housing and contribute with the UN SDGs</p>
-                              <p class="lead mb-5">Put your community on the Blockchain and keep your data secure & registred</p>
+                              <h1>empowering the future of <strong>housing</strong> communities</h1>
+                              <p class="lead">Create and manage cohousing communities for<br />affordable housing and contribute to reach the UN SDGs</p>
+                              <p class="lead mb-5">Avoid intermediaries and keep your data secure & registred</p>
                               <p class="mt-5 mt-sm-4">
                                   <a class="btn btn-primary" href="">Sign In</a> <span class='ml-2'>- It's free!</span>
                               </p>
@@ -29,7 +29,7 @@
                           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true">
                               <p><img alt="image" class="fdb-icon" src="img/community.png" style='width:180px;margin:20px;margin-bottom:40px;'></p>
                               <h3 class='be-header'><strong>be a community</strong></h3>
-                              <p>bring people together to develop a common goal</p>
+                              <p>Find help and co-founders to start working on your own community</p>
                           </div>
                       </div>
                   </div>
@@ -48,7 +48,7 @@
                       <div class="fr-wrapper" dir="auto">
                           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true">
                               <p><img alt="image" class="fdb-icon" src="img/red.png" style='width:300px;'></p>
-                              <h3 class='be-header'><strong>be descentralized</strong></h3>
+                              <h3 class='be-header'><strong>be decentralized</strong></h3>
                               <p>secure and tempered-proof your organization, its registers and transactions</p>
                           </div>
                       </div>
@@ -156,8 +156,9 @@
                   <div class="col col-md-8 text-center fr-box" role="application" style="z-index: 10000;">
                       <div class="fr-wrapper" dir="auto">
                           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true">
-                              <h1>our commünitäs</h1>
-                              <p class="lead">Explore on going organizations, get inspired<br />and contribute to archieve common goals.</p>
+                              <h1>start your commūnitās</h1>
+                              <p class="lead">Explore existing housing communities, get inspired, find people around you,<br />replicate organization structures, follow roadmaps and create your housing community. 
+</p>
                           </div>
                       </div>
                   </div>
