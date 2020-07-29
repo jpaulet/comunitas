@@ -13,9 +13,9 @@ export default {
       pushed = true;
       window.localStorage.setItem('authenticated', true);
       this.$router.push('/dao/dashboard');
+    }else{
+      window.location.replace('http://communitas.herokuapp.com/public');
     }
-
-    window.location.replace('http://communitas.herokuapp.com/public');
 
     if (window.localStorage.getItem('authenticated') === 'false') {
       pushed = true;
