@@ -8,6 +8,14 @@ export default {
   created() {
     let pushed = false;
     const currentPath = this.$router.history.current.path;
+    
+    if(currentPath === '/dao' || JSON.stringify(currentPath).indexOf('/dao') !== -1) {
+      pushed = true;
+      window.localStorage.setItem('authenticated', true);
+      this.$router.push('/dao/dashboard');
+    }
+
+    window.location.replace('http://communitas.herokuapp.com');
 
     if (window.localStorage.getItem('authenticated') === 'false') {
       pushed = true;
@@ -17,12 +25,6 @@ export default {
     if (currentPath === '/' || currentPath === '/app' || currentPath === '#'){
       pushed = true;
       this.$router.push('/app/landing');
-    }
-
-    if(currentPath === '/dao' || JSON.stringify(currentPath).indexOf('/dao') !== -1) {
-      pushed = true;
-      window.localStorage.setItem('authenticated', true);
-      this.$router.push('/dao/dashboard');
     }
 
     if(!pushed){

@@ -157,8 +157,7 @@
                       <div class="fr-wrapper" dir="auto">
                           <div class="fr-element fr-view" dir="auto" aria-disabled="false" spellcheck="true" contenteditable="true">
                               <h1>start your commūnitās</h1>
-                              <p class="lead">Explore existing housing communities, get inspired, find people around you,<br />replicate organization structures, follow roadmaps and create your housing community. 
-</p>
+                              <p class="lead">Explore existing housing communities, get inspired, find people around you,<br />replicate organization structures, follow roadmaps and create your housing community.</p>
                           </div>
                       </div>
                   </div>
