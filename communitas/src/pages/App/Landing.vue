@@ -1,5 +1,4 @@
-<template>
-        
+<template>        
     <div class="fp-full-view">
       
       <section class="fdb-block" data-block-type="call_to_action" data-id="2" style='margin-top:0px;'>

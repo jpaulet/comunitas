@@ -8,13 +8,14 @@ export default {
   created() {
     let pushed = false;
     const currentPath = this.$router.history.current.path;
+    alert('Redirecting to the new site...');
     
     if(currentPath === '/dao' || JSON.stringify(currentPath).indexOf('/dao') !== -1) {
       pushed = true;
       window.localStorage.setItem('authenticated', true);
       this.$router.push('/dao/dashboard');
     }else{
-      window.location.replace('http://communitas.herokuapp.com/public');
+      window.location.replace('http://communitas.herokuapp.com');
     }
 
     if (window.localStorage.getItem('authenticated') === 'false') {
